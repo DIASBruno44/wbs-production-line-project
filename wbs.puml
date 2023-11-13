@@ -1,5 +1,5 @@
 @startwbs wbs
-* Creating the Project Management Plan (PMP)
+* Factory Production Line Project
 ** Creating the Project Management Plan (PMP)
 *** Project scope (5W1H)
 *** Project Objectives identification (SMART)
@@ -17,60 +17,32 @@
 *** Performance and results indicators
 *** Resource management
 *** Communication plan
-' ** Preliminary Studies
-' *** Site selection and analysis
-' *** Stakeholder consultation
-' **** Present the idea to the Tianjin administration
 
-** PMP validation
+** PMP Validation
 *** Presentation to Stakeholders
-
 *** Security management
 **** Security plan
 **** Security plan Communication
 **** Security equipment installation
 
 ** Design Phase
-' *** Initial concept design
 *** Engineering and technical specifications
 *** Detailed architectural plans
-' *** Factory specifications detailing workshops, offices, and storage
-' *** Sustainable design considerations
-' *** Integrating bio-sourced and sustainable materials
-' *** Compliance with HQE-Aménagement standards
 *** 3D Modeling
 *** Model validation
 
-** Permitting and Legal
-*** Acquisition of construction permits
-*** Legal review and compliance checks
-*** Urban development compliance and challenges
-*** Environmental impact assessment
-** Procurement
-*** Sourcing of sustainable materials
-*** Selection of contractors and suppliers
-*** Contract management
-*** Acquiring or leasing the building and machinery
-** Construction Phase
-*** Site preparation and groundworks
-*** Infrastructure development
-*** Building construction
-*** Improving/modifying the building to meet company and country requirements
-*** Installation of sustainable systems
-*** Landscaping and external works
-** Certification Process
-*** Documentation and evidence gathering
-*** Submission for HQE-Aménagement certification
-*** Certification audits
-*** Rectification of non-compliance issues
+** Production Line
+*** Raw materials and Equipement Purchase
+*** Production line installation
+
 ** Project Closeout
-*** Final inspections and approvals
-*** Project documentation and reporting
+*** Production line test and validation
+*** Project documentation
 *** Post-implementation sustainability review
+
 ** Operations and Maintenance
 *** Development of operation manuals
 *** Establishment of maintenance schedules
-*** Training for facilities management staff
-*** Monitoring and reporting on sustainability metrics
+*** Training of personnel dedicated to maintenance
 *** Continuous improvement programs for sustainability practices
 @endwbs
