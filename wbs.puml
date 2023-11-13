@@ -1,15 +1,25 @@
 @startwbs wbs
-* Project Management
-** Project planning
-*** Creating the Project Management Plan (PMP)
-*** Budgeting and financial management
-*** Quality assurance processes
-*** Communication plan
-*** Risk management
-*** Developing an Integrated Management System for quality, environment, and safety
-** Preliminary Studies
+* Creating the Project Management Plan (PMP)
+** Creating the Project Management Plan (PMP)
+*** Project scope (5W1H)
+*** Project Objectives identification (SMART)
+*** SWOT analysis
+*** Feasibility assessment
 *** Market analysis
-*** Feasibility studies
+*** Project planning
+**** Work Breakdown Struture (WBS)
+**** PERT network
+**** Plan scheduling (GANTT)
+*** Role and responsabilities
+**** Organization Breakdown Structure (OBS)
+**** Responsability assignment matrix (RACI matrix)
+*** Risk management
+*** Performance and results indicators
+*** Resource management
+*** Communication plan
+** Preliminary Studies
+
+
 *** Site selection and analysis
 *** Stakeholder consultation
 **** Present the idea to the Tianjin administration
