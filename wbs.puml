@@ -34,18 +34,27 @@
 *** 3D Modeling
 *** Model validation
 
+** Purchases (Raw materials and Equipement)
+*** Market Research
+*** Vendor Evaluation
+*** Meetings with vendors
+*** Negotiation and Purchasing
+*** Delivery 
+
 ** Production Line
-*** Raw materials and Equipement Purchase
 *** Production line construction
 
+** Test and Validation
+*** Production line test
+*** Production line validation
+
 ** Project Closeout
-*** Production line test and validation
 *** Project documentation
 *** Post-implementation sustainability review
 
-** Operations and Maintenance
-*** Development of operation manuals
-*** Establishment of maintenance schedules
-*** Training of personnel dedicated to maintenance
-*** Continuous improvement programs for sustainability practices
+' ** Operations and Maintenance
+' *** Development of operation manuals
+' *** Establishment of maintenance schedules
+' *** Training of personnel dedicated to maintenance
+' *** Continuous improvement programs for sustainability practices
 @endwbs
